@@ -1,0 +1,22 @@
+package com.ibm.dw.spring2;
+import java.util.Date;
+public class Employee {
+private long empid;
+private String empno;
+private String firstName;
+private String midInitial;
+private String lastName;
+private String phoneNumber;
+private String job;
+private int educationLevel;
+private char sex;
+private double salary;
+private double bonus;
+private double commission;
+private Address addr;
+private Date hiredate;
+private Date birthdate;
+}
+
+
+
